@@ -1,0 +1,6 @@
+{
+  "name": "Brew Haven Café",
+  "description": "World-class luxury coffee experience featuring artisanal brews, gourmet desserts, online reservations, interactive menu customization, and aesthetic dark elegance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
